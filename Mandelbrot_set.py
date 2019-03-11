@@ -1,6 +1,7 @@
 # Mandelbrot_Set
 __author__ = 'Chuhang Liu'
 
+
 import numpy as np
 import matplotlib.pyplot as plt
 
